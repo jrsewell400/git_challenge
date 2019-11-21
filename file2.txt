@@ -1,2 +1,3 @@
 My partner's name is Alexis.
 He's really good at GitHub!
+Now we are learning branches!
